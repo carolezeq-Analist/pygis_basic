@@ -1,5 +1,9 @@
 # pygis_basic
-Introductory PyGIS projects covering vector and raster data processing, spatial filtering.
+This repository contains custom PyGIS automation tools developed in QGIS Processing Toolbox.
+The scripts were created to automate repetitive GIS workflows involving vector and raster data, improving efficiency, reproducibility, and scalability in spatial analysis projects.
+
+All tools are parameterized, reusable, and integrated directly into QGIS as custom processing algorithms.
+
 Technologies Used
 	•	QGIS 3.x
 	•	Python (PyGIS)
