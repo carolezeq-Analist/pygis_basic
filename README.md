@@ -3,14 +3,14 @@ This repository contains custom PyGIS automation tools developed in QGIS Process
 The scripts were created to automate repetitive GIS workflows involving vector and raster data, improving efficiency, reproducibility, and scalability in spatial analysis projects.
 
 All tools are parameterized, reusable, and integrated directly into QGIS as custom processing algorithms.
-
+---
 Technologies Used
 	•	QGIS 3.x
 	•	Python (PyGIS)
 	•	QGIS Processing API
 	•	Vector and Raster Geoprocessing
----
- Why This Matters
+
+ Why This Matters:
 
 These scripts demonstrate the ability to:
 	•	Automate GIS workflows
