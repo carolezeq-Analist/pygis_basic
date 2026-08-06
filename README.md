@@ -9,7 +9,7 @@ Technologies Used
 	•	Python (PyGIS)
 	•	QGIS Processing API
 	•	Vector and Raster Geoprocessing
-
+---
  Why This Matters
 
 These scripts demonstrate the ability to:
@@ -17,3 +17,4 @@ These scripts demonstrate the ability to:
 	•	Integrate Python with QGIS Processing tools
 	•	Create reusable, production-ready spatial tools
 	•	Reduce manual GIS operations and errors
+---
